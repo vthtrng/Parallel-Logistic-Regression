@@ -8,7 +8,7 @@
 ```
 .
 ├── cuda_logreg.cu 
-├── benchmark.cpp
+├── benchmark_cuda.cpp
 ├── cnpy.h / cnpy.cpp
 ├── datasets/
 │ ├── X_100k_1k.npy
