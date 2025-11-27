@@ -3,6 +3,7 @@
 - **CUDA Toolkit**
 - **cnpy library** for reading `.npy` files  
 ## Project Structure
+```
 .
 ├── cuda_logreg.cu # CUDA implementation of Logistic Regression
 ├── benchmark.cpp # Benchmark script using .npy datasets
