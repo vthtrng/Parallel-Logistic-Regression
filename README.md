@@ -1,7 +1,9 @@
 # CUDA Logistic Regression
 ## Requirements
 - **CUDA Toolkit**
-- **cnpy library** for reading `.npy` files  
+- **nvcc**
+- **cnpy library** for reading `.npy` files
+- **vcpkg**
 ## Project Structure
 ```
 .
