@@ -5,12 +5,12 @@
 ## Project Structure
 ```
 .
-├── cuda_logreg.cu # CUDA implementation of Logistic Regression
-├── benchmark.cpp # Benchmark script using .npy datasets
-├── cnpy.h / cnpy.cpp # Library for reading .npy files
-├── datasets/ # Example datasets in NumPy format
+├── cuda_logreg.cu 
+├── benchmark.cpp
+├── cnpy.h / cnpy.cpp
+├── datasets/
 │ ├── X_100k_1k.npy
 │ ├── y_100k_1k.npy
 │ └── ...
-├── README.md # This file
-└── LICENSE
+└── README.md
+```
